@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ji Yutong",
+    "label": "Undergraduate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ji_yutong@stu.pku.edu.cn",
+    "phone": "(86) 135 xxxx xxxx",
+    "url": "https://jerton.github.io/",
+    "summary": "An student at Yuanpei College of Peking University, majored in physics",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
