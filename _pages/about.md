@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Peking University</a>. No.5th Rd. Yihuyuan, Haidian District, Beijing, China
+subtitle: <a href='#'>Peking University</a>. No.5th Rd. Yiheyuan, Haidian District, Beijing, China
 
 profile:
   align: right
