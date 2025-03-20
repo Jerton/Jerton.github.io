@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://pku.edu.cn'>Peking University</a>, No. 5 Yiheyuan Road, Haidian District, Beijing, 100871, China
+subtitle: Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, 100871, China
 
 profile:
   align: right
