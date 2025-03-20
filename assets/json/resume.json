@@ -8,16 +8,16 @@
     "url": "https://jerton.github.io/",
     "summary": "An student at Yuanpei College of Peking University, majored in physics",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "No.5 Yiheyuan Rd",
+      "postalCode": "100871",
+      "city": "Beijing",
+      "countryCode": "CN",
+      "region": "Beijing"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
+        "username": "Jerton1379",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
@@ -26,10 +26,10 @@
     {
       "name": "Department of physics, Peking University",
       "position": "Undergraduate",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Learning basic physics",
+      "url": "https://pku.edu.cn",
+      "startDate": "2021-09-01",
+      "endDate": "2030-07-01",
+      "summary": "Learning high energy physics",
       "highlights": ["QM"]
     }
   ],
@@ -150,13 +150,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Simple",
       "icon": ""
     }
   ],
