@@ -6,7 +6,7 @@ subtitle: Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, 100
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Peking University</p>
@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am an undergraduate student working on physics.
+I am a first-year Ph.D. student working on physics.
