@@ -19,6 +19,4 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-**WARNING** This page hasn't been completely finished. No information on this page is true for sure.
-
 I am an undergraduate student working on physics.
